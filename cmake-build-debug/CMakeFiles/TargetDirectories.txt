@@ -1,0 +1,3 @@
+C:/Users/Selman/CLionProjects/toplama_oyunu/cmake-build-debug/CMakeFiles/zar_oyunu.dir
+C:/Users/Selman/CLionProjects/toplama_oyunu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Selman/CLionProjects/toplama_oyunu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
